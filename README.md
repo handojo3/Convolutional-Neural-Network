@@ -1,7 +1,10 @@
 # AI-Project
 
-•	Coded an AI model in Python that determined if images of cells were infected with Malaria at an accuracy of 94%
+•	Developed a Python-based AI model to accurately detect Malaria infection in cell images, achieving an impressive accuracy of 94%
 
-•	Utilized a variety of Python Libraries such as TensorFlow, NumPy, Matplotlib, and Seaborn
+•	Leveraged a comprehensive range of Python libraries, including TensorFlow, NumPy, Matplotlib, and Seaborn, to effectively process and analyze the image data
 
-•	Created a model with a Convolution Neural Network with dense and output layers, compiled and trained the data, and displayed test accuracy in a Confusion Matrix
+•	Constructed a Convolutional Neural Network (CNN) architecture with optimized dense and output layers, ensuring efficient feature extraction and classification
+
+•	Evaluated the model’s effectiveness by generating a Confusion Matrix, providing a clear visualization of the test accuracy and error analysis
+
